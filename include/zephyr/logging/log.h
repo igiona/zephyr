@@ -60,7 +60,7 @@ extern "C" {
  * followed by as many values as specifiers.
  */
 #define LOG_ERR(...) Z_LOG(LOG_LEVEL_ERR, __VA_ARGS__)
-
+asdsasd
 /**
  * @brief Writes a WARNING level message to the log.
  *
